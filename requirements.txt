@@ -4,4 +4,4 @@ pandas
 keras
 tensorflow
 plotly
-streamlit
+gradio
